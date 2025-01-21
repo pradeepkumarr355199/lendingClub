@@ -13,22 +13,13 @@ LendingClub Case Study
 ## General Information
 
 * What is the background of your project?
-
-  ```text
-  The background of this project is to develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
-  ```
+  > The background of this project is to develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
 
 * What is the business probem that your project is trying to solve?
-
-  ```text
-  The Business Problem that this project aims to solve is how consumer attributes and loan attributes influence the tendency of default and to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
-  ```
+  > The Business Problem that this project aims to solve is how consumer attributes and loan attributes influence the tendency of default and to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
 
 * What is the dataset that is being used?
-
-  ```text
-  we are using a dataset of the complete loan data for all loans issued through the time period 2007 to 2011 by LendingClub - a consumer finance company which specialises in lending various types of loans to urban customers.
-  ```
+  > we are using a dataset of the complete loan data for all loans issued through the time period 2007 to 2011 by LendingClub - a consumer finance company which specialises in lending various types of loans to urban customers.
 
 ## Conclusions
 
@@ -58,4 +49,4 @@ LendingClub Case Study
 
 
 ## Contact
-Created by [@ppauljonathan] [@pradeepkumarr355199] - feel free to contact us!
+Created by [@ppauljonathan](https://github.com/ppauljonathan/) [@pradeepkumarr355199](https://github.com/pradeepkumarr355199) - feel free to contact us!
