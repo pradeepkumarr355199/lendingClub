@@ -23,20 +23,25 @@ LendingClub Case Study
 
 ## Conclusions
 
-* Conclusion 1 from the analysis
-* Conclusion 2 from the analysis
-* Conclusion 3 from the analysis
-* Conclusion 4 from the analysis
+* `grade`: Grade B has a relatively higher default rate.
+* `sub_grade`: among the grades, we see that sub_grade B5 has a high default rate.
+* `emp_length`: we can see loan applicants with 10+ years of experience are the highest defaulters.
+* `home_ownership`: we can see loan applicants living in rented/mortgage house are the highest defaulters.
+* `verification_status`: we can see loan applicants who are 'not verified' are the highest defaulters.
+* `purpose`: we can see loan applicants whose loan purpose is related to 'debt_consolidation' are the highest defaulters.
+* `loan_amnt`, `funded_amnt`, `funded_amnt_inv` & `installment` are highly correlated with `total_pymnt`, `total_pymnt_inv`, `total_rec_prncp`, `total_rec_int`.
+* `total_acc` is highly correlated with `open_acc`.
+* `pub_rec` is highly correlated with `pub_rec_bankruptcies`.
 
 ## Technologies Used
 
-* numpy      - version 2.2.1
-* pandas     - version 2.2.3
-* matplotlib - version 3.10.0
-* seaborn    - version 0.13.2
-* missingno  - version 0.5.2
-* jupyter    - version 1.1.1
-* python     - version 3.13.0
+* `numpy`      - version 2.2.1
+* `pandas`     - version 2.2.3
+* `matplotlib` - version 3.10.0
+* `seaborn`    - version 0.13.2
+* `missingno`  - version 0.5.2
+* `jupyter`    - version 1.1.1
+* `python`     - version 3.13.0
 
 ## Acknowledgements
 
