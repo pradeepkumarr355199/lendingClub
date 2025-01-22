@@ -28,9 +28,6 @@ LendingClub Case Study
 * Conclusion 3 from the analysis
 * Conclusion 4 from the analysis
 
-
-
-
 ## Technologies Used
 
 * numpy      - version 2.2.1
@@ -41,12 +38,10 @@ LendingClub Case Study
 * jupyter    - version 1.1.1
 * python     - version 3.13.0
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
 ## Acknowledgements
 
 * This project was based on [this case study](https://learn.upgrad.com/course/7715/segment/53501/317620/962115/4806808).
 
-
 ## Contact
+
 Created by [@ppauljonathan](https://github.com/ppauljonathan/) [@pradeepkumarr355199](https://github.com/pradeepkumarr355199) - feel free to contact us!
